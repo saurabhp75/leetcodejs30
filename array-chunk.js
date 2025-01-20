@@ -11,7 +11,6 @@ function chunk(arr, size) {
   }
 
   //   for (let i = 0; i < arr.length; ++i) {
-  //     console.log(`in for loop i: ${i}`);
 
   //     temp[i] = arr.slice(i * size, (i + 1) * size);
   //     console.log(`index: ${i} temp: ${temp}`);
